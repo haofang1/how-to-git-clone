@@ -9,7 +9,8 @@
 详细安装教程参考https://www.cnblogs.com/hdlan/p/14395189.html
 
 ## 使用
-可以建立一个新文件夹，在命令符中cd过去，输入git clone命令进行下载
+可以建立一个新文件夹，用命令符cd到这个新文件夹，输入git clone 链接进行下载，链接复制方式如图
+![54%8EXQZZQZ86L${~UNVFKU](https://user-images.githubusercontent.com/88160269/137775146-fec07e0c-a9f8-4be6-8843-e672300d3bf4.png)
 
 注意，初次要求关联账户才能clone，选第二个选项后，在跳出的网页输入给的验证码后再输入账户密码即可关联  
 如果第一次关联失败，第二次下载可能显示fatal: destination path '.' already exists and is not an empty directory  
