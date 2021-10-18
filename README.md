@@ -13,6 +13,8 @@
 ![54%8EXQZZQZ86L${~UNVFKU](https://user-images.githubusercontent.com/88160269/137775146-fec07e0c-a9f8-4be6-8843-e672300d3bf4.png)
 
 注意，初次要求关联账户才能clone，选第二个选项后，在跳出的网页输入给的验证码后再输入账户密码即可关联  
+![RT9UVH)TC %C(G2@I%4}KAB](https://user-images.githubusercontent.com/88160269/137776876-d6b68ece-2662-47d2-89e7-a6b4cb04847a.png)
+
 如果第一次关联失败，第二次下载可能显示fatal: destination path '.' already exists and is not an empty directory  
 将项目名的文件夹例图中的python_basic_grammar整个删除或者删除其中被隐藏的.git文件夹再git clone一遍即可
 
