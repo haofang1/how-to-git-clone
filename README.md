@@ -11,8 +11,8 @@
 ## 使用
 可以建立一个新文件夹，在命令符中cd过去，输入git clone命令进行下载
 
-注意，初次要求关联账户才能clone，选第二个选项后，在跳出的网页输入给的验证码后再输入账户密码即可关联
-如果第一次关联失败，第二次下载可能显示fatal: destination path '.' already exists and is not an empty directory
+注意，初次要求关联账户才能clone，选第二个选项后，在跳出的网页输入给的验证码后再输入账户密码即可关联  
+如果第一次关联失败，第二次下载可能显示fatal: destination path '.' already exists and is not an empty directory  
 将项目名的文件夹例图中的python_basic_grammar整个删除或者删除其中被隐藏的.git文件夹再git clone一遍即可
 
 ![CU 788YCIM5QZC AG6 41 O](https://user-images.githubusercontent.com/88160269/137773178-5525907d-328c-4f89-8eee-d2b5943e0891.png)
